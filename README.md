@@ -1,7 +1,7 @@
 # passwordManager
 
 
-Abiola Salau
+Abiola
 11/13/2019
 
 This program stores passwords in a file 
