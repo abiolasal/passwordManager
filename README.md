@@ -13,6 +13,5 @@ install using pip install pycryptodomex
 
 To run:
    python pwdManager.py or python3 pwdManager.py if both Python2.x and 3.x is on machine
-
- To reset:
+To reset:
    rm PasswordFile.txt.enc
